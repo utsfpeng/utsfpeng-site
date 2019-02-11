@@ -1,0 +1,92 @@
+# baseURL = "http://example.org/"
+# languageCode = "en-us"
+# title = "My New Hugo Site"
+# theme = "AllinOne"
+
+baseURL                   = "https://utsfpeng.github.io/"
+builddrafts                = true #Allow draft = true to still be built.
+languageCode               = "en-au"
+canonifyurls               = true
+contentdir                 = "content"
+layoutdir                  = "layouts"
+publishdir                 = "public"
+enableEmoji                = true
+hasCJKLanguage             = false
+summaryLength              = 200
+Paginate                   = 3
+
+theme                      = "AllinOne"
+title                      = "Frank Peng"
+
+#Syntax Highlighter - New = Chroma, Old = Pygments
+pygmentsuseclasses         = false
+
+
+[permalinks]
+  blog                     = "blog/:year-:month/:slug/"
+
+
+[taxonomies]
+  tag                      = "tags"
+  series                   = "series"
+  category                 = "categories"
+
+
+[menu]
+  [[menu.main]]
+    name                   = "Blog"
+    weight                 = -120
+    identifier             = "blog"
+    url                    = "blog/"
+
+  [[menu.main]]
+    name                   = "Portfolio"
+    weight                 = -110
+    identifier             = "portfolio"
+    url                    = "portfolio/"
+
+  [[menu.main]]
+    name                   = "About"
+    weight                 = -100
+    identifier             = "about"
+    url                    = "about/"
+
+
+
+[params]
+  faviconfile              = "img/logo.png"               # from static/
+  avatar                   = "img/profilepic.jpg"             # path to image in static dir e.g img/avatar.png
+  author                   = "Frank Peng"
+  description              = ["Software Engineering Student | Aspiring Cyber Security Consultant"] #, "Part-Time Photographer"]           # appears in the site header when set to a non-empty string
+  welcome_head             = "Welcome to my website!"
+  welcome_word             = "~ There's nothing like a good challenge! ~"
+
+  latestpostscount         = 4                             # how many posts to display on the home page
+  bloggroupby              = 'month'
+  dateform                 = "Jan 2, 2006"
+  dateformfull             = "2006-01-02  Monday  15:04:05"
+  noshowreadtime           = true                         # if true, don't show "<x> minutes read" in posts
+
+  # slides
+  slidesDirPath            = "themes/AllinOne/static/img/header-slides"    # path to image in local dir (path for hugo)
+  slidesDirPathURL         = "img/header-slides"    # path to image in static dir (for static pages)
+
+  # highlighting
+  highlightjs              = true
+
+  # latex
+  katex                    = true
+
+  # links
+  email                    = "frank.peng@student.uts.edu.au"
+  github                   = "https://github.com/utsfpeng"
+  linkedin                 = "https://au.linkedin.com/in/frank-peng"
+  #facebook                 = "//facebook.com/you"
+  #googleplus               = "//google.com/you"
+  #twitter                  = "//twitter.com/you"
+  #px500                    = "//px500"
+  #instagram                = "//instagram.com/you"
+  include_rss              = false                          # include RSS <link> tag in <head> and show RSS icon
+
+  # analytics
+  #googleAnalytics          = "your-google-analytic-id"
