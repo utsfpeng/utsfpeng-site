@@ -14,7 +14,7 @@ I have always had a strong interest towards Cyber Security since the start of my
 
 I chose to undertake the UTS MIDAS Summer Studio 2019 subject and join the Cyber Security Studio as a way to get my hands dirty and begin my journey towards learning about Cyber Security and acquire the skills and experience needed to get me started. I hope to use everything I learn in the studio as a starting point to allow me to continue learning more after building a foundational background in the field.
 
-[me]: img/2019-02-introme.jpg
+![Picture of me](/img/2019-02-introme.jpg)
 
 ### Learning Contract
 
@@ -57,7 +57,7 @@ Some of the steps that I took to find vulnerabilities include:
 
 4. Find basic social engineering flaws (E.g. Social Media exposure of certain information that may be used for security questions)
 
-[isAdmin]: img/2019-02-isAdmin.png
+![isAdmin](/img/2019-02-isAdmin.PNG)
 
 ### SLO 3 - Apply technical skills to develop, model and/or evaluate design
 
@@ -83,6 +83,6 @@ Discussions with Darsh on how to discover areas of weakness and how to improve t
 
 I have identified some of the areas that I might need to work on for improvement, such as prioritisation, time management, organisation and structuring my thoughts with my tasks.
 
-[ppt]: img/2019-02-bugbounty.jpg
+![Bug Bounty Presentation 1](/img/2019-02-bugbounty.jpg)
 
-[ppt2]: img/2019-02-bugbounty2.jpg
+![Bug Bounty Presentation 2](/img/2019-02-bugbounty2.jpg)
