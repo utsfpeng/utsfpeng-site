@@ -9,6 +9,16 @@ draft: true
 
 A realistic and achievable goal that I set for myself is to gain fundamentals skills in pen-testing, so that I am able to have a solid skill set that I can build upon after the studio to go towards a future career in cyber security.
 
+Developing the basic mindset of being curious about errors and also how to actually go about testing.
+E.g.
+* Checking Source Code
+* Going through Robots.txt
+* Checking HTTP GET/POST Requests and their Responses.
+* Directory traversing
+* Looking for any access control misconfigurations
+* XSS injection into all the input fields, especially search bar
+* SQL injection into login screen input fields.
+
 Currently, I have zero knowledge of Cyber Security in regards to what tools and techniques to use for pen-testing and I want to improve my general ability to detect web application security vulnerabilities.
 
 I have been recommended PicoCTF, HackTheBox, natas and bandits (Wargames) to start myself on the journey of learning.
