@@ -89,6 +89,6 @@ That concludes my reflections for Week 2/Sprint 2!
 References:
 
 * OWASP 2018, Cross-Site Request Forgery (CSRF), OWASP, viewed 11 February 2019, <https://www.owasp.org/index.php/Cross-Site_Request_Forgery_(CSRF)>.
-* OWASP 2018, Cross-site Scripting (XSS), OWASP, viewed 11 February 2018, <https://www.owasp.org/index.php/Cross-site_Scripting_(XSS)>.
+* OWASP 2018, Cross-site Scripting (XSS), OWASP, viewed 11 February 2019, <https://www.owasp.org/index.php/Cross-site_Scripting_(XSS)>.
 * OWASP 2015, DOM Based XSS, OWASP, viewed 11 February 2019, <https://www.owasp.org/index.php/DOM_Based_XSS>.
-* OWASP 2015, Testing for Reflected Cross site scripting (OTG-INPVAL-001), OWASP, viewed 11 February 2018, <https://www.owasp.org/index.php/Testing_for_Reflected_Cross_site_scripting_(OTG-INPVAL-001)>.
+* OWASP 2015, Testing for Reflected Cross site scripting (OTG-INPVAL-001), OWASP, viewed 11 February 2019, <https://www.owasp.org/index.php/Testing_for_Reflected_Cross_site_scripting_(OTG-INPVAL-001)>.
