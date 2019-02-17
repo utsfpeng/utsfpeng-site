@@ -24,6 +24,27 @@ SQLi is a type of code injection using SQL Statements placed into user input fie
 
 We were also tasked with researching responsible disclosure programs and bug bounty programs and the significance of ethical hacking and its importance.
 
+Responsible Disclosure Programs are a security vulnerability disclosure model that allows security researchers or individuals who have discovered a vulnerability to notify the affected organisation/individual without any legal repercussions under a policy that protects the vulnerability reporter.
+
+Many organisations have participated as a way to prevent security vulnerabilities to be exposed to the public by individuals for criminals to take advantage. Instead, it allows individuals to notify the affected organisation privately to allow time for the issue to be fixed/patched before it is disclosed to the public. Many high-profile organisations have responsible disclosure policies set in place to allow security vulnerability to be disclosed to them without legal repercussions, some of these organisations include:
+
+* CERT Australia (https://www.cert.gov.au/critical-infrastructure-big-business/report-incident/vulnerability-disclosure-policy)
+* Australia Post (https://auspost.com.au/about-us/about-our-site/responsible-disclosure)
+* Ikea (https://www.ikea.com/au/en/responsible-disclosure/index.html)
+* MYOB (https://www.myob.com/au/about/security/report-security-vulnerability)
+
+Bug bounty programs are an incentivised responsible disclosure program that provides monetary benefits for security researchers that find security vulnerabilities and formally report it through a bug bounty program under the pretense that they would provide a write-up that allows the vulnerability to be replicated/reproduced, so that the affected organisation can fix it privately before releasing it publicly (if consent is given).
+
+In regards to ethical hacking, it is a concept that identifies that not everyone who finds a security vulnerability is a black-hat hacker who would use it for a malicious purpose. In fact, most security vulnerabilities nowadays are discovered by accident and not on purpose, it is people who want to actually do good to disclose such security vulnerabilities to the affected organisations as part of their feeling of social responsibility to ensure that it is fixed and remains more secure for others.
+
+It is the mindset that differentiates ethical and unethical hacking.
+
+Ethical hackers seek to improve and enhance the security for the greater good while on the other hand, unethical hackers seek to either cause damage or benefit from security vulnerabilities and weak security.
+
+Researching on responsible disclosure, bug bounty programs and pondering about the thought of ethical hacking has allowed me to reflect on why I want to pursue a career in Cyber Security in greater depth.
+
+The answer that I've come to choose for now is that I want to make a positive impact and ensure that my loved ones who use their usual daily services and infrastructure to be securely protected and not become a victim of a security vulnerability. In addition, I believe that the Cyber Security industry is a career path that I want to take since I love a good challenge and I love the thrill of researching and using my forte of breaking things for enhancing and improving the overall security of IT systems and services. I love the constant change and being able to work without a dull day where it is always the same thing would definitely be a dream job of mine. (SLO 5)
+
 
 
 References:
