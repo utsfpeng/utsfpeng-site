@@ -96,3 +96,19 @@ There was also a View sourcecode link, so pressing it displayed the actual sourc
 A include statement caught my eye and upon using the path "/includes/secret.inc", the secret was written in plain-text wrapped around by php tags.
 
 Upon inserting the secret into the text-field, I received the natas7 password.
+
+### Natas 7
+
+Natas 7 presented 2 links to: Home & About.
+
+These pages had descriptions that described it was a home page and about page.
+
+The source code revealed a hint about the natas 8 password stored in the path: /etc/natas_webpass/natas8 .
+
+{{< figure src="/img/natas/natas7-1.PNG">}}
+
+What I found interesting was how the pages were being called from a filename, which lacked any sanitisation for the path to be manipulated.
+
+{{< figure src="/img/natas/natas7-2.PNG">}}
+
+Hence, attempting to insert the path where natas 8 passwsord was stored, resulted in successfully retrieving the password.
