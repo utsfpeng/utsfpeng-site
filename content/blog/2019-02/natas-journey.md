@@ -112,3 +112,13 @@ What I found interesting was how the pages were being called from a filename, wh
 {{< figure src="/img/natas/natas7-2.PNG">}}
 
 Hence, attempting to insert the path where natas 8 passwsord was stored, resulted in successfully retrieving the password.
+
+### Natas 8
+
+
+
+### Natas 9
+
+
+
+### Natas 10
