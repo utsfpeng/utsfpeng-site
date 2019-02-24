@@ -115,10 +115,46 @@ Hence, attempting to insert the path where natas 8 passwsord was stored, resulte
 
 ### Natas 8
 
+Natas 8 presented a label "Input secret" next to a text field.
 
+When pressing on the "View sourcecode" link, it led us to source code view of the page which presented a hint in the parameter "encodedSecret" with the encodeSecret function. The encodeSecret function utilised bin2hex, strrev (string reverse) and base64 encoding.
+
+{{< figure src="/img/natas/natas8-1.PNG">}}
+
+{{< figure src="/img/natas/natas8-2.PNG">}}
+
+Hence, I tried to reverse the encodeSecret function by performing base64 decoding, string reversal and hex2bin to decode the encodedSecret parameter.
+
+I tried to perform the php functions by running it through the command line, so that some time can be saved.
+
+{{< figure src="/img/natas/natas8-3.PNG">}}
+
+After producing the decoded secret, I entered the secret into the text field and it confirmed that it was a success and showed the natas 9 password.
+
+{{< figure src="/img/natas/natas8-4.PNG">}}
 
 ### Natas 9
 
+Natas 9 presented a label stating to "FInd words containing:" followed by a text field and a search button. It also has a label suggesting that there will be output on the screen.
 
+A quick look in the source code suggests that it is a search functionality which would grep through a file called "dictionary.txt".
+
+{{< figure src="/img/natas/natas9-1.PNG">}}
+
+A quick search for the 'passthru' function in the php documentation reveals that it executes an external program and displays raw output. This hints towards a vulnerability where the search bar can be used to execute commands and possibly run things maliciously due to the lack of restrictions on the user input.
+
+{{< figure src="/img/natas/natas9-2.PNG">}}
+
+Since the text field was unsanitised and unescaped, I tried a variety of special characters to break it. However, just one dot (full-stop) was already enough to be an exception and cause the search to output everything. Taking on that concept, using the search bar, we could move to the directory that contains the password. Since it was already noted that the password was stored in the path "/etc/natas_webpass/natas#", where # is the number for the next natas level. When we used that path with the full-stop character, it spun out the password for natas 10.
+
+{{< figure src="/img/natas/natas9-3.PNG">}}
+
+To clean it up a bit, using the hash to comment out the rest of the results, we were able to isolate the password as the only output.
+
+{{< figure src="/img/natas/natas9-4.PNG">}}
 
 ### Natas 10
+
+Natas 10 presented that "For security reasons, we now filter on certain characters", but upon looking at the source code they have not filtered the full-stop. Hence, using the same input, but addressed for natas 11; I was able to successfully isolate and retrieve the password for natas 11.
+
+{{< figure src="/img/natas/natas10.PNG">}}
