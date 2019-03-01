@@ -12,9 +12,9 @@ We started the week off with Reverse Engineering with Ruben Thijssen, a speaker/
 
 More on that over at: http://frankpeng.me/blog/2019-02/reverse-engineering/
 
-Afterwards, we were encouraged to go from "Boot2Root" on a vulnerable machine. An extra level of difficulty was to work on ones which have no write-ups/walkthroughs. Hence, we did an active vulnerable machine on Hack The Box called <REDACTED>. This involved using a variety of network-based tools to discover ports and services being used. In addition, we had to utilise reverse shells for privilege escalation and a lot of trial and error in between. It was my very first experience going from nothing to gaining access/entry into the machine to gaining access to user and then eventually escalating that to root privileges. It was endless hours of trial and error and exploring different files and services that may be exploitable, but also discovering that being too technical, I could be over-thinking what needs to be done.
+Afterwards, we were encouraged to go from "Boot2Root" on a vulnerable machine. An extra level of difficulty was to work on ones which have no write-ups/walkthroughs. Hence, we did an active vulnerable machine on Hack The Box called xREDACTEDx. This involved using a variety of network-based tools to discover ports and services being used. In addition, we had to utilise reverse shells for privilege escalation and a lot of trial and error in between. It was my very first experience going from nothing to gaining access/entry into the machine to gaining access to user and then eventually escalating that to root privileges. It was endless hours of trial and error and exploring different files and services that may be exploitable, but also discovering that being too technical, I could be over-thinking what needs to be done.
 
-<REDACTED> was a vulnerable machine which was based relatively more on enumeration and real-life. Hence, it was a great starter box for me to get my first hands-on experience.
+xREDACTEDx was a vulnerable machine which was based relatively more on enumeration and real-life. Hence, it was a great starter box for me to get my first hands-on experience.
 
 
 
