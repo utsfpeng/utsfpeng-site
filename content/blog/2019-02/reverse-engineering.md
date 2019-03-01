@@ -8,7 +8,7 @@ draft: true
 
 Today we were introduced to Reverse Engineering by Ruben Thijssen, a Application Security Manager from Symantec.
 
-He demonstrated the use of Binary Ninja to reverse engineer high-level language (C) and disassemble it into Assembly Language.
+He demonstrated the use of Binary Ninja to reverse engineer high-level language ( C ) and disassemble it into Assembly Language.
 
 He gave us a set of introductory challenges to reverse engineering and binary exploitation.
 
