@@ -87,8 +87,21 @@ In another scenario, I chose a company website which had a Responsible Disclosur
 
 ### SLO 3 - Apply  technical skills to develop, model and/or evaluate design
 
+As part of Cyber Security Studio, every single time that we have something that we do not know, we would need to research about it. This could be research on a tool, research on possible security vulnerabilities and exploits, system configurations, certain types of output or files among many other things.
+
+{{< figure src="/img/portfolio/SLO3-OWASP.PNG" caption="Caption: Researching XSS Injection on OWASP Top 10 for common vulnerabilities and exploits">}}
+
+Since Cyber Security is never straight forward and every single machine and challenge is something new and fresh, a lot of things will need to be researched. The structure of the system and environment could be similar, but there are a lot of different configurations, services and settings that we do not usually remember because it might only be used once only when we need to due to a specific setup. Hence, there is always a need to research possible security vulnerabilities that might be applicable to a certain setup whether that be a Linux or Windows environment, the version that they are using, the updates/patches that they have installed, configurations and settings adjustments among many others.
+
+{{< figure src="/img/portfolio/SLO3-CVE.PNG" caption="Caption: Researching SSH CVEs to exploit a particular version of OpenSSH">}}
+
+For example, when I was attempting to gain access to a system using PHP as their main language, I had to research how to get a reverse shell running on the target machine. Hence, I had to look up commands to use on the command line.
+
+{{< figure src="/img/portfolio/SLO3-RevSh.PNG" caption="Caption: Researching how to run a PHP Reverse Shell">}}
 
 ### SLO 4 - Demonstrate effective collaboration and communication skills
+
+
 
 ### SLO 5 - Conduct Critical Self and Peer Review and Performance Evaluation
 
