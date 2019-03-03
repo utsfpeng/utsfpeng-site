@@ -129,6 +129,33 @@ Moreover, within the classroom we did Free-4-All sessions, they were basically w
 
 ### SLO 5 - Conduct Critical Self and Peer Review and Performance Evaluation
 
+Throughout the Cyber Security Studio, I did self-reflections on both the week/sprint as a whole and also documented my individual learning journey in my blog to reflect after the activity and see how much I retain in my memory and also what things I should note down so I don't forget. In addition, I have also been receiving weekly feedback from my studio facilitators on each of my weekly submissions to note down areas that I need to improve on and areas that I am doing well in. However, something that has caught me by surprise was the fact that other classmates have used my blog as a reference for their work, such as using one of my first posts to setup a static site generator called GoHugo (Hugo).
+
+{{< figure src="/img/portfolio/SLO5-Andy.PNG" >}}
+
+After our face-to-face lessons, the studio facilitators (special mentions to Darsh, Larry and Luke) stay back to have 1 on 1 conversations with students to check up on their progress and ask any lingering questions or resolve any uncertainties. It has been valuable to have this feedback while going through such an intensive 4 week session since sometimes it goes so fast that you forget to breathe. Personally, this clarification goes along way for me since I tend to be a perfectionist and like to dwell over minor details which are ambiguous, so that confirmation really gives me the confidence that I am moving in the right direction.
+
+Additionally, the studio facilitators have taken on the feedback that I have provided within my weekly blog submissions to improve the studio in the next lessons which made me feel that they truly valued the feedback that they were given and worked hard towards providing us with the best education possible. This quick iteration and uptake of feedback is something I consider what made the Cyber Security Studio so successful and an experience that I will cherish forever.
+
+{{< figure src="/img/portfolio/SLO5-Sprint1.PNG" >}}
+
+{{< figure src="/img/portfolio/SLO5-Sprint2.PNG" >}}
+
+{{< figure src="/img/portfolio/SLO5-Sprint3.PNG" >}}
+
+I really appreciate the feedback that I got within the studio since it wasn't generic like a lot of other subject feedback that I get during normal university sessions. It was very tailored and identified specific areas of interest that were good or needed more work on.
+
+Personally, I still believe that I need more experience with active machines on Hack The Box and also getting more familiar with tools such as Burp Suite for networking purposes and Hydra for brute-forcing purposes. In addition, I need to find a more logical way or series of steps for enumeration and starting off a new active box from scratch. This may be aided by a self-designed cheat sheet in order to better remember what to do.
+
+
 ### Conclusion
 
+The Cyber Security Studio has enabled me to meet some of the highest priority objectives and also helped me redefine my other objectives to something achievable with long-term commitment to putting in the effort. I have come out from the other side after finishing the studio with the basic skillset and concepts covered, more than what I expected. I could never imagine that I would be able to go from "Boot 2 Root" for my very first box on Hack The Box within the 4 week timeframe. After finding my passion for Cyber Security in the studio, I have decided on seriously pursuing a Cyber Security related position for my senior internship placement in order to further improve upon my skillset and develop myself professionally.
+
 ### Final Reflective Statement
+
+In the duration of my learning journey in UTS MIDAS Summer Studio 2019 - Cyber Security: An Offensive Mindset, I have successfully satisfied all five subject learning outcomes. In regards to SLO 1 - Engage with stakeholders to identify a problem, I have interacted with various industry professionals and spoke about the evolution of security vulnerabilities, received support and advice on how to pursue Cyber Security as a profession, identified how to use and mitigate exploits and how to scan a network for services and ports. As for SLO 2 - Apply Design Thinking to respond to a defined or newly identified problem, I have tried Web Pen-testing a business website with responsible disclosure and used creative methods to explore possible vulnerabilities that may exist. In terms of SLO 3 - Apply technical skills to develop, model and/or evaluate design, I have researched various security vulnerabilities while attempting to complete certain Cyber Security challenges and Hack The Box Machines which have allowed me to correctly evaluate design decisions made by the original creator/developer. In addition, I have also evaluated poor design choices which have exposed security vulnerabilities and possible exploits that could be used against it, in order to achieve the objective of ultimately gaining user and root access. To achieve SLO 4 - Demonstrate effective collaboration and communication skills, I have actively participated in group presentations and discussions like Free 4 All and also helped people set up their static sites and git environment. Concerning SLO 5 - Conduct Critical Self and Peer review and Performance evaluation, I have written self-reflections weekly along with notes of my different learning journeys across different tools and machines so that it is there for future reference when I need it again. Subsequently, I have also identified the need to improve my skills in Burp Suite and Hydra among other tools that come pre-installed as part of Kali Linux OS.
+
+Thank you so much for running the UTS MIDAS Summer Studio 2019 - Cyber Security: An Offensive Mindset!
+
+I really enjoyed it!
