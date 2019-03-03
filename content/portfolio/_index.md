@@ -101,7 +101,31 @@ For example, when I was attempting to gain access to a system using PHP as their
 
 ### SLO 4 - Demonstrate effective collaboration and communication skills
 
+Within the Cyber Security Studio, we were required to research and present findings in class to share our knowledge on different Cyber Security related topics.
 
+A Bug Bounty Presentation was presented in class to explain how certain organisations encourage security researchers to find security vulnerabilities before hackers find them and use it for malicious purposes.
+
+* [Bug Bounty Presentation](https://docs.google.com/presentation/d/1e3WunCcSdGv09VA77-9W8lBUlbU3uerzyue-1ow_glc/edit?usp=sharing)
+
+{{< figure src="/img/2019-02-bugbounty2.jpg">}}
+
+A presentation on the Aircrack-ng (Aircrack Next Generation) networking suite that is made readily available in Kali Linux OS for cracking Wi-Fi Passwords, monitoring network traffic among other use cases and purposes.
+
+* [Aircrack-ng Presentation](https://docs.google.com/presentation/d/1mH4f4ga8g755NWiLRoq_wTtxcDtnLqWot66_N0-ESzY/edit?usp=sharing)
+
+In addition, as part of the Expo, a presentation was made to state our highlights, lowlights and insights with a live demo of the type of work that we were doing for the past 4 weeks.
+
+* [Expo Presentation](https://docs.google.com/presentation/d/15R4CfAy6mqTa8u99pGQ1XdQnMTgk63jD6Y0Bcu0OMU8/edit?usp=sharing)
+
+Furthermore, when working on group projects/presentations, we would collaborate over Microsoft Teams to coordinate the different sections of work and also use the planner plugin to allocate tasks to each individual team member.
+
+{{< figure src="/img/portfolio/SLO4-Chris.PNG">}}
+
+{{< figure src="/img/portfolio/SLO4-PPT.PNG">}}
+
+Moreover, within the classroom we did Free-4-All sessions, they were basically ways of getting know other people that we do not normally talk to and discuss about milestones, challenges and roadblocks encountered throughout the week. The studio facilitators intentionally made us go out of our comfort zone and pair us up with people we have not met or hardly talk to. As a result, they built this community spirit studio which I am very grateful for.
+
+{{< figure src="/img/portfolio/SLO4-F4A.PNG" caption="Brief summary of a Free 4 All session">}}
 
 ### SLO 5 - Conduct Critical Self and Peer Review and Performance Evaluation
 
