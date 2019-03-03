@@ -123,7 +123,7 @@ Furthermore, when working on group projects/presentations, we would collaborate 
 
 {{< figure src="/img/portfolio/SLO4-PPT.PNG">}}
 
-Moreover, within the classroom we did Free-4-All sessions, they were basically ways of getting know other people that we do not normally talk to and discuss about milestones, challenges and roadblocks encountered throughout the week. The studio facilitators intentionally made us go out of our comfort zone and pair us up with people we have not met or hardly talk to. As a result, they built this community spirit studio which I am very grateful for.
+Moreover, within the classroom we did Free-4-All sessions, they were basically ways of getting to know other people that we do not normally talk to and discuss about milestones, challenges and roadblocks encountered throughout the week. The studio facilitators intentionally made us go out of our comfort zone and pair us up with people we have not met or hardly talk to. As a result, they built this community spirit studio which I am very grateful for.
 
 {{< figure src="/img/portfolio/SLO4-F4A.PNG" caption="Brief summary of a Free 4 All session">}}
 
